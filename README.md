@@ -1,2 +1,3 @@
 # hand-cricket-game.c
-My first project on C language making hand cricket game 
+My first project on C 
+making hand cricket game 
