@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-int p1;//p1 is player point
-int p2;//p2 is comp point
+int p1;//p1 is a global variables to store player point
+int p2;//p2 is a global variables to store computer point
 int randomnum(int n)
 {
     srand(time(NULL));
